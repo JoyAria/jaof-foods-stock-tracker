@@ -1,6 +1,3 @@
-# jaof-foods-stock-tracker
-Stock and sales tracking system for JAOF FOODS and fish pond
-
 # JAOF FOODS – Fish in Pond
 
 ## Small Shop Stock and Sales Tracker
@@ -25,7 +22,7 @@ Agile Iterative and Incremental Model.
 Individual Academic Project.
 
 ### Developer
-Aria Peters
+MBOH DARIAS
 
 ### Technologies
  MySQL, HTML, CSS and JavaScript.
